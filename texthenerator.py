@@ -45,8 +45,8 @@ for word in range(len(new)-1):
         spsp.append([new[word],new[word+1]])
 print(len(spsp), spsp)
 
-# TODO:(Vova): def that generates a random sentence. The first word of each sentence is taken from start_words.
+# TODO:(Vova): def that generates a random sentence. Output a certain number of sentences. The first word of each sentence is taken from start_words.
 
-# TODO:(Sveta): PEP-8, output a certain number of sentences, adaptation for english text.
+# TODO:(Sveta): PEP-8, adaptation for english text.
 
 
